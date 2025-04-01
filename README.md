@@ -4,4 +4,4 @@ A collection of technical commentary, critical thoughts, and opinionated takes o
 
 ## Essays
 
-- [Model Context Protocol is not a server](./mcp-not-a-server.md)
+- [Anthropic’s “MCP server” isn’t really a server](./mcp-not-a-server.md)
