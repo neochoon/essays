@@ -1,6 +1,8 @@
 title: neochoon's essays
 description: Critical takes on AI tools, developer workflows, and modern software.
-baseurl: ""
+baseurl: 
+repository: neochoon/essays
 url: "https://neochoon.github.io"
+author: ChoonSik C.
 theme: minima
 future: true
